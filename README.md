@@ -12,4 +12,6 @@ I will also need to use SQL filters to retrieve records from different datasets 
 
 The purpose of this project is to demonstrate my expertise in SQL, SQL filters and applying them in retrieving specific and relevant information. 
 
+The SQL queries, its execution and output are all put in the 'Apply filters to SQL queries' pdf file.
+
 This was an exciting activity to perform where I was able to view and solve specific unauthorized actions took place.
